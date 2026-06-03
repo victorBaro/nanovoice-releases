@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>NanoVoice Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <!-- Add new versions above this line -->
+        <item>
+            <title>Version 1.0.2</title>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.2</h2><ul><li>Bug fixes and improvements</li></ul>
+            ]]></description>
+            <pubDate>Wed, 03 Jun 2026 11:24:08 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.0.2/NanoVoice.dmg"
+                sparkle:edSignature="mXrsjNZal4owZeMp+dsHV4ludoiRkJo9512oo+0eCp7jY3puncH/mcatPFy55RiY8yuZumB8kLsbh/MfDTxwBQ=="
+                length="11028417"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+        </item>
+
+    </channel>
+</rss>
