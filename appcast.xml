@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.0.3</title>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.3</h2><ul><li>Added local Parakeet V3 transcription using FluidAudio/CoreML.</li><li>Added in-flow model download prompts for Whisper and Parakeet when a required local model is missing.</li><li>Added a true raw Transcript template with no post-processing.</li><li>Moved the previous cleaned transcript behavior to Clean output for Lifetime users.</li><li>Improved microphone permission detection on newer macOS versions.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 04 Jun 2026 14:42:51 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.0.3/NanoVoice.dmg"
+                sparkle:edSignature="fC4bTS1/ac1Q3Ou05NUwigg46+Fy7jRhTyKcJX9so7rxKWSAS7XvUi/OVNg3RPctWT72tupTFR3WGid8GytVDQ=="
+                length="14559508"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.2</title>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
