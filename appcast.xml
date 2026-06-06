@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.1.0</title>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.1.0</h2><ul><li>New feature: Record meetings. NanoVoice can now record and transcribe your meetings locally, then turn them into clean, topic-organized notes.</li><li>A floating pill shows while a meeting is recording, with a live timer, audio meter, and one-click Stop.</li><li>New on-device LLM for much better formatting: download a built-in local model (no API key) for sharper notes, emails, and meeting summaries.</li><li>Redesigned Models settings: a clearer step-by-step layout for speech-to-text, formatting, and cloud keys.</li><li>You can now edit any built-in template to match how you write, with one-click restore to default.</li></ul>
+            ]]></description>
+            <pubDate>Sat, 06 Jun 2026 07:51:08 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.1.0/NanoVoice.dmg"
+                sparkle:edSignature="gYm4BhM1tzMEL1+5kftuxKXEpJDOWjKfSwpFW5ZwIYFe0xPXVXFqJzuiThp95Fw6uZ7yHZ3jO3R+g8fh/P6RAA=="
+                length="27304457"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.3</title>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
