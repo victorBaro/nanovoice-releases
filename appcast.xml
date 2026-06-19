@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.1.4</title>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.1.4</h2><ul><li>Improve meeting recording and transcript</li></ul>
+            ]]></description>
+            <pubDate>Thu, 18 Jun 2026 18:49:04 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.1.4/NanoVoice.dmg"
+                sparkle:edSignature="bKOvWSVgEDMfEmiu8fk797Uv3w95ZTzOyRCOiJO4dOdAGVLl2/Bag1z1D17OjiDqWJC2niKrVI4brjEkjvFcBA=="
+                length="27493018"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.1.3</title>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
