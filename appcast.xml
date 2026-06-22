@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.2.1</title>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.2.1</h2><ul><li>Bug fixes and improvements</li></ul>
+            ]]></description>
+            <pubDate>Mon, 22 Jun 2026 13:23:37 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.2.1/NanoVoice.dmg"
+                sparkle:edSignature="MeZmZ0bvR2SEQ9kEM1ZhC/BZHPswISk6u91FmcMPyfyGt85dKnusYaoY4mctiU/FD6hiD6Kf+rysRaUku+HPAQ=="
+                length="27545349"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.2.0</title>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
