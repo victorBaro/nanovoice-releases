@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.2.3</title>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.2.3</h2><ul><li>Fixed Parakeet V3 failing because model downloads could omit a required vocabulary file.</li><li>Fixed Whisper returning phrases such as "Thank you." when no microphone audio was captured.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 16 Jul 2026 18:22:13 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.2.3/NanoVoice.dmg"
+                sparkle:edSignature="ahxxPKslmvyErEMHneGhnstm7awGOmpHZzEn3TqJr5e0DaXTlq0TQ254j+M+FQ4zG/OChq7oEyV5Ri6GvGmZCg=="
+                length="27406250"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.2.2</title>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
