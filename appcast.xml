@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.2.5</title>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.2.5</h2><ul><li>Added optional automatic Markdown export for completed dictations and meeting transcripts.</li><li>Fixed downloaded Whisper models sometimes appearing unavailable, especially before the online catalog loaded.</li><li>Improved multilingual transcription with persistent language settings and clear protection against English-only model mismatches.</li><li>Updated OpenAI, Anthropic, and Gemini recommendations; available models now refresh automatically without a manual refresh button.</li><li>Fixed formatting engine and model settings sometimes reverting after leaving Settings.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 30 Jul 2026 19:29:27 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.2.5/NanoVoice.dmg"
+                sparkle:edSignature="BCFmVMTevWHy6CgISgAh4zxVxCDcYwbj91gtTWVREuOo3q3wWoszsyMyPsDahULrzF8oklqZWZuo1nqoakORDw=="
+                length="27546462"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.2.4</title>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
