@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.2.7</title>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.2.7</h2><ul><li>View your license activation count and reset old installations from License settings.</li><li>Improved license recovery and clearer activation error messages.</li></ul>
+            ]]></description>
+            <pubDate>Tue, 08 Sep 2026 16:47:19 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.2.7/NanoVoice.dmg"
+                sparkle:edSignature="qmb5IHIPuDbO+OMCFX7DGDwYDpUuk1DZ98fwy25IJOpXr1BDoAjomLJJDQDjcKmPF4RLTQ/emmYhAew/a20PDg=="
+                length="27607331"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.2.6</title>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
