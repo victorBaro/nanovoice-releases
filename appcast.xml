@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.2.8</title>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.2.8</h2><ul><li>Search recordings by title, transcript, generated output, template, language, or recording type; pin and rename important recordings.</li><li>Correct a transcript and re-run it with any template without recording again; cancellation and backend errors keep the previous output safe.</li><li>See actual installed model sizes, active and recommended models, proactive setup guidance, and consistent deletion controls for local models.</li><li>Stop offering to record Discord as a meeting.</li></ul>
+            ]]></description>
+            <pubDate>Mon, 14 Sep 2026 11:47:07 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.2.8/NanoVoice.dmg"
+                sparkle:edSignature="IwNf9NwpR+VSTBawLrHxJaMPPnn4tJ0iH4rjRuKDTkFvnRUQTGcQvdPRyF67s8gBUT/6Aji/2LXX1BLziXrqAg=="
+                length="27821690"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.2.7</title>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
