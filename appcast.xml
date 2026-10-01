@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.2.9</title>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.2.9</h2><ul><li>Reduce idle memory usage by releasing local speech and formatting models after a minute without use.</li><li>Move and resize the Recordings window, with size and position remembered.</li><li>Add a Parakeet recommendation in transcription settings.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 01 Oct 2026 14:43:08 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.2.9/NanoVoice.dmg"
+                sparkle:edSignature="1swxWdzbPtmJom5JLAntR7WfLy1uP3Zs3UtluDW4xRPKT6C81r+xEzXHbA5hyVzSYLuGe408HNON0rx5RUX0Aw=="
+                length="30156971"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.2.8</title>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
