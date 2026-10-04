@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.3.0</title>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.3.0</h2><ul><li>Improve on-device Apple Speech transcription on macOS 26 and 27, with language model readiness, download progress, and cancellation in Settings.</li><li>Reduce memory usage during local formatting and improve model loading, cancellation, and recovery.</li><li>Improve Apple template formatting and explain when a transcript exceeds the model’s context limit.</li><li>Fix Recordings window dragging, appearance, and keyboard navigation, including immediate Up/Down navigation when opening the window or searching.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 04 Oct 2026 07:04:49 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.3.0/NanoVoice.dmg"
+                sparkle:edSignature="DQsfBVdp/+AsRQmzwU9Rr6l877sLj/vioI5Fmjmhrk+EguifhCiCb4k1Ug+1evJcKkTuqtEaB5rt4ySz0RntAQ=="
+                length="30331000"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.2.9</title>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
