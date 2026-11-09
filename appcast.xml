@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.4.0</title>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.4.0</h2><ul><li>Send completed recordings or corrected transcripts to new or existing NanoPad notes.</li><li>Start dictation from a NanoPad note or Quick Capture and return the result to its original destination.</li><li>Resize recording details and use compact Liquid Glass controls with hover hints.</li><li>Keep the full Send to NanoPad label visible and remember your choice to skip repeated dictation confirmations.</li><li>Get a reminder when a meeting may have ended, with options to stop and create notes or keep recording.</li></ul>
+            ]]></description>
+            <pubDate>Mon, 09 Nov 2026 10:42:05 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.4.0/NanoVoice.dmg"
+                sparkle:edSignature="3T+zcZeElt0bZGEDm/0ZvogItpb7lzCOQCVzW57smBejIDgc8Vd0BRYd43lpsxwBr4UYXc64C9N/+dmuPnV7CQ=="
+                length="30535142"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.3.0</title>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
