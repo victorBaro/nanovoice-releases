@@ -8,6 +8,22 @@
         <language>en</language>
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.4.1</title>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.4.1</h2><ul><li>Fix an issue where NanoVoice could reopen NanoPad after an update or relaunch by replaying an old dictation handoff.</li></ul>
+            ]]></description>
+            <pubDate>Mon, 09 Nov 2026 11:07:10 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanovoice-releases/releases/download/v1.4.1/NanoVoice.dmg"
+                sparkle:edSignature="pdB+blKrcU77qKp/kvaAfwWWVg0Ud2Smw+2Y5mGHnZ3vHS58ioI14d2vik9NHHOw4k+n6t4fVwtgUTnvhHeMAQ=="
+                length="30534882"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.4.0</title>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
